@@ -1,5 +1,5 @@
 Hi there 👋
- profile views  [![HitCount](https://hits.dwyl.com/yasinSahyar/yasinSahyar.svg?style=flat)](http://hits.dwyl.com/yasinSahyar/yasinSahyar)
+- profile views  [![HitCount](https://hits.dwyl.com/yasinSahyar/yasinSahyar.svg?style=flat)](http://hits.dwyl.com/yasinSahyar/yasinSahyar)
 - 👋  I’m @yasinSahyar
 - 👀 I’m interested in software test automation
 - 🌱 I’m currently learning software development
