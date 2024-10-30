@@ -6,15 +6,23 @@ Hi there 👋
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me jasiin358@gmail.com
 - linkedin https://www.linkedin.com/in/yasinsahyar/
-- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/yasinsahyar/"
-
-  [[params.social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.in/citations?user=jasiin358"
+-
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+  <div class="wrapper">
+    {%- if site.github_username -%}
+    <ul class="contact-list">
+      <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>
+      &emsp;
+      <a href="https://www.linkedin.com/in/{{ site.linkedin_yasinsahyar| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="yasinsahyar">{{ site.linkedin_yasinsahyar| escape }}</span></a>
+      &emsp;
+      <a href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a>
+    </ul>
+    {%- endif -%}
+  </div>
+  
+</footer>
 
 <!---
 yasinSahyar/yasinSahyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
