@@ -6,6 +6,10 @@ Hi there 👋
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me jasiin358@gmail.com
 - linkedin https://www.linkedin.com/in/yasinsahyar/
+- [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/yasinsahyar/"
 
 <!---
 yasinSahyar/yasinSahyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
