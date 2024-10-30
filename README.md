@@ -11,6 +11,11 @@ Hi there 👋
     icon_pack = "fa"
     link = "//linkedin.com/in/yasinsahyar/"
 
+  [[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.co.in/citations?user=jasiin358"
+
 <!---
 yasinSahyar/yasinSahyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
