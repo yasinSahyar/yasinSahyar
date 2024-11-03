@@ -5,7 +5,7 @@ Hi there 👋
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me jasiin358@gmail.com
--🏩 https://www.linkedin.com/in/yasinsahyar/
+
 
 <!---
 yasinSahyar/yasinSahyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
