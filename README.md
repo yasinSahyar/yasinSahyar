@@ -1,7 +1,6 @@
 Hi there 👋
-- profile views  (http://hits.dwyl.com/yasinSahyar/yasinSahyar)
+![Profile views](https://komarev.com/ghpvc/?username=yasinSahyar&label=Profile%20views&color=0e75b6&style=flat)
 
-- ![Profile views](https://komarev.com/ghpvc/?username=yasinSahyar&label=Ziyaretçi%20Sayısı&color=orange&style=flat)
 
 - 👋  I’m @yasinSahyar
 - 👀 I’m interested in software test automation
